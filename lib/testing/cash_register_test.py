@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#pytest lib/testing/cash_register_test.py
 
 from cash_register import CashRegister
 
